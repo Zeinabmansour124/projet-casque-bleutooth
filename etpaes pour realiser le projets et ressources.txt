@@ -1,0 +1,2 @@
+phase 1 : Etude des projets existants 
+       1) Ploopy Headphone : un casque audio OpenSource sous RP2040 : C'est un travail Open-Source, description de A à Z de la construction de casque.
