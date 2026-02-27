@@ -1,2 +1,39 @@
 phase 1 : Etude des projets existants 
        1) Ploopy Headphone : un casque audio OpenSource sous RP2040 : C'est un travail Open-Source, description de A à Z de la construction de casque.
+           LIEN YT  : https://youtu.be/AdndxifS_J4?si=lizkmWkP5PetKgrZ
+           on apprend Architecture électronique, choix des drivers, conception mécanique
+       2)Projet de Tonio6613
+           LIEN : https://www.homecinema-fr.com/forum/viewtopic.php?forum_uri=casques-haute-fidelite&t=30092981-casque-bluetooth-diy-imprim%C3%A9-3d&start=
+           matériel :  *HP  
+           *Bluetooth Audio Recever (utilisant technologie Bluetooth 4.2 , porté 10m , Autonomie 4 à 5 Hrs de music , Prise micro USB pour charger poids de l'émetteur : 10g,Appareillage avec un 2éme casque possible)
+           -role de Recever : Recevoir un signal audio venant d'un émetteur (comme un smartphone) pour le transmettre à un haut-parleur ou une chaîne filaire.
+           
+           -La norme 4.2 définit la portée, le débit, la consommation d'énergie. Pour le Xiaomi, cela lui permet de communiquer avec votre téléphone avec 
+           une bonne stabilité et une basse consommation.
+           
+           -porté 10m : distance de "champ libre" ,  Dans la réalité, les murs (surtout en béton), 
+           les portes et même le corps humain réduisent considérablement cette distance. 
+           Si on va dans une chambre fermée derrière un mur épais, 
+           la connexion peut commencer à "sauter" ou se couper à moins de 10 mètres.
+           
+           -autonomie: L'autonomie (dans le contexte d'un appareil électronique comme le récepteur Bluetooth, un téléphone, ou une voiture électrique) désigne simplement la durée pendant 
+           laquelle l'appareil peut fonctionner sans avoir besoin d'être branché sur une source d'alimentation.
+           
+           -Prise micro USB pour charger:Cette prise micro USB est uniquement dédiée à l'alimentation de l'appareil. On la branche sur :
+              Un adaptateur secteur (le petit bloc qu'on branche sur une prise murale, comme celui de votre téléphone).
+
+           peut on connecter plusieurs appareils bluetooth à la fois ? voir Appareillage-multiple.md
+
+           *Sélection des mousses: -Mousses oreillettes Bose QC35
+                                   -Appui-tête Sennheiser HD25 
+
+           *Selection du cable de liaison :Mogami W2368 - 0,08mm² Ø2mm 
+
+           filtrage actif : C'est une technologie de traitement du son. Elle vise à réduire les bruits ambiants (moteur d'avion, bruit de rue, ventilation)
+            pour que vous entendiez mieux votre musique. C'est le "comment" le casque améliore votre écoute en supprimant l'environnement.
+            comment fonctionne le filtrage actif ? voir fichier 
+        3) Tuto instructables : 
+            Lien : https://www.makery.info/2016/09/26/fabriquer-un-casque-audio-sans-fil-et-hacker-apple/
+            vd yt :https://youtu.be/MLd4q4NbBSU?si=xKqzfwp7xbxktLu3
+
+phase 2 : élaboration du cahier de charge 
